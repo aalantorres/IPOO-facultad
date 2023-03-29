@@ -153,6 +153,7 @@ while($opcion != 10){
                 echo"Pasajero ".$nroPasajero. "\nNombre:".$nombre."\nApellido:".$apellido."\nNumero de documento:".$nroDocumento;
                 echo"\n--------------------------------------------\n";
             }
+            break;
     }
     
 }
